@@ -1,6 +1,6 @@
-token=NTI2MjA0NzIwMjE0MzEwOTI1.Dy1Rfw.yO0pJuZpVci-4pxXNc2ZOG7sbzg
-owner=476188949291991060 
-prefix=/
-game=TheShadowzMusic
+token=NTM5NDkxMzk2ODAxOTIxMDM5.DzDIMA.PaEc9kzs1hKeMoVSACegCjDNqAM
+owner=462010454093594626
+prefix=R
+game=REEMBOT
 stayinchannel=true
 songinstatus=false
